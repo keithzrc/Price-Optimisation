@@ -1,4 +1,3 @@
-# Price-Optimisation
 This is a small data science project for my own educational purposes.
 
 ## Model Used
