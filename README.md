@@ -1,5 +1,5 @@
 # Price-Optimisation
-This is just a small project for my own educational purposes.
+This is a small data science project for my own educational purposes.
 
 ## Model Used
 Ordinary least squares - ols
